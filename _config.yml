@@ -8,7 +8,7 @@ plugins:
   - jekyll-remote-theme
 
 # Site settings
-title:          Tale
+title:          MelvinLi
 description:    "Minimal Jekyll theme for storytellers"
 # baseurl:        "/tale"
 # url:            "https://chesterhow.github.io"
