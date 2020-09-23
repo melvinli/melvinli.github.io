@@ -10,8 +10,10 @@ plugins:
 # Site settings
 title:          Tale
 description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+# baseurl:        "/tale"
+# url:            "https://chesterhow.github.io"
+baseurl:        ""
+url:            "https://melvinli.github.io"
 
 # Google Analytics
 google_analytics: UA—XXXXXXXX-X
